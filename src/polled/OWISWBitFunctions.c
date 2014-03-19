@@ -31,7 +31,7 @@
 /*! \brief Initialization of the one wire bus(es). (Software only driver)
  *  
  *  This function initializes the 1-Wire bus(es) by releasing it and
- *  waiting until any presence sinals are finished.
+ *  waiting until any presence signals are finished.
  *
  *  \param  pins    A bitmask of the buses to initialize.
  */
